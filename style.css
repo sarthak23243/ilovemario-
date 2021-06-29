@@ -1,0 +1,45 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h1 {
+    display: inline;
+    font-family: 'Michroma', sans-serif;
+    font-size: 27px;
+}
+
+.heading button {
+    float: right;
+    border: 2px black solid;
+    color: purple;
+    background-color: white;
+    font-family: 'Tangerine', cursive;
+    font-size: 27px;
+}
+
+#marioisanoob {
+    width: 100%;
+    height: 800px;
+}
+
+#ilovemario {
+
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    line-height: 27px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+.modal-dialog {
+    width: 90%;
+    
+}
+video {
+    background:url("game_console.png");
+    background-position: center;
+    padding: 25px;
+    background-size: cover;
+}
